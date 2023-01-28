@@ -1,0 +1,25 @@
+------------------------ TIK TOK BAN TOOL BY GASKELA ------------------------ 
+
+1. Odete na tiktok.com i nadjete profil od tog koga zelite banati | https://prnt.sc/m6E5DtK8BjqP
+
+2. Kad ste na njegovom profilu kliknite F12 ili desni klik pa inspect element | https://prnt.sc/miKEI8Indhkw
+
+3. Nadjite Sekciju Network | https://prnt.sc/VCtcOcmNSVRO
+
+4. Kad nadjete sekciju network uzmite i reportajte profil za bilo sta | https://prnt.sc/_a19xrMSJtLv
+
+5. Kad izadje da ste reportali u networku nadjite deo gde pise ?aid= | https://prnt.sc/FfBgtCA_7-X8
+
+6. Kad nadjete kliknite desni klik copy link address | https://prnt.sc/Rc-ORDx8pe6T
+
+7. Zatim paste tu adresu na google i ako izadje{"status_code": 0, "status_msg": "Thanks for your feedback" sve je tacno | https://prnt.sc/n_wytC2QZUVB
+
+8. Zatim idete da otvorite fajl | https://prnt.sc/zkVcyWEW8wH2
+
+9. Kad otvorite fajl pasteajte samo i enter | https://prnt.sc/2172gBASIdag
+
+uzivajte ! :D
+
+NAPOMENA: kada prestane da radi pricekajte 10 minuta ili ukljucite vpn!
+
+@gasiiich na instagram !
